@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MobileUI.iml" filepath="$PROJECT_DIR$/.idea/modules/MobileUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MobileUI.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MobileUI.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1537502409/MobileUI.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1537502409/MobileUI.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/124190583/MobileUI.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/124190583/MobileUI.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-733959555/MobileUI.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-733959555/MobileUI.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1634548531/MobileUI.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1634548531/MobileUI.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1329248715/MobileUI.react-native-date-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1329248715/MobileUI.react-native-date-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/562065807/MobileUI.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/562065807/MobileUI.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1668935473/MobileUI.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1668935473/MobileUI.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1431173857/MobileUI.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1431173857/MobileUI.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2120635501/MobileUI.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2120635501/MobileUI.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-304158523/MobileUI.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-304158523/MobileUI.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2116130478/MobileUI.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-2116130478/MobileUI.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

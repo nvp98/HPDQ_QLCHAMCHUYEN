@@ -1,0 +1,9 @@
+com/mobileui/MainActivity.java
+ com.mobileui.MainActivity
+com/mobileui/BuildConfig.java
+ com.mobileui.BuildConfig
+com/mobileui/MainApplication.java
+ com.mobileui.MainApplication
+ com.mobileui.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
